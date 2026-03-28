@@ -45,3 +45,7 @@ python src/analysis.py
 data/       # raster de entrada (no incluido)
 src/        # código Python
 results/    # resultados generados
+
+## Mapa de resultados
+
+![Mapa NDVI](results/mapa_ndvi.png)
